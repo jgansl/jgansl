@@ -2,6 +2,7 @@
 
 <!--
 Refer: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+Refer: icons: https://gist.github.com/rxaviers/7360908
 **JesseGansler/JesseGansler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
