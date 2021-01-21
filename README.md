@@ -16,3 +16,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Interests Include:
+- Mobile Application Development
+- Edge Computing
+- Quantum Computing
+- Distributed Systems
+- Data Analytics
+- Advancements in Machine Learning
+#### As well as 
+- Guitar / Piano
+- Snowboarding
+- Climbing
+- Gaming
+### I have never been but have always wanted to 
+- Sail
+- Skydive
+
