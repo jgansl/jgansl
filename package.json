@@ -6,6 +6,6 @@
   "author": "jganstf <jesse@temperandforge.com>",
   "license": "MIT",
   "scripts": {
-    "save":"git stage . && git commit -m \"update\" && git push"
+    "save":"git stage . && git commit -m \"updated\" && git push"
   }
 }
