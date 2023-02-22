@@ -21,8 +21,8 @@
       .body {
       
         <!-- #ff9b71; -->
-        --color-main: #0047ff;
-        --color-primary: #fff;
+        --color-main: #fff;
+        --color-primary: #0047ff;
         --color-secondary: #420FE7;
         --color-background: #0d1117;
         --color-link: #fef29e;
