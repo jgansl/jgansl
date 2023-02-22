@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 #### As well as 
 - Guitar / Piano
 - Snowboarding
-- Climbing
+- Climbing/Bouldering
 - Gaming
 ### I have never been but have always wanted to 
 - Sail
