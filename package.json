@@ -1,0 +1,11 @@
+{
+  "name": "jgansl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://jgansl@github.com/jgansl/jgansl.git",
+  "author": "jganstf <jesse@temperandforge.com>",
+  "license": "MIT",
+  "scripts": {
+    "save":"git stage . && git commit -m \"update\" && git push"
+  }
+}
