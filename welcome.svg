@@ -39,7 +39,7 @@
         background-position: 0 0;
         border: 24px solid;
         border-color: var(--color-background);
-        animation: fadeIn 1s ease-out forwards;
+        <!-- animation: fadeIn 1s ease-out forwards; -->
       }
       .container {
         background: var(--color-background);
@@ -222,10 +222,6 @@
         </section>
       </div>
     </div>
-
-   <script>
-      console.log("hello teehee")
-   </script>
   </div>
   </foreignObject>
 </svg>
