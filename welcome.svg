@@ -21,11 +21,11 @@
       .body {
       
         <!-- #ff9b71; -->
-        --color-main: #fff;
+        --color-main: #420FE7;
         --color-primary: #0047ff;
-        --color-secondary: #420FE7;
+        --color-secondary: #fff;
         --color-background: #0d1117;
-        --color-link: #fef29e;
+        --color-link: #8224e3;
         --color-link-active: #ff4444;
         height: 400px;
         width: 100%;
