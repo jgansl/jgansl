@@ -79,9 +79,6 @@
           }
         }
       </style>
-      <script>
-      console.log("hello teehee")
-      </script>
 
       <div class="container">
         <h1>Hi there, my name is Jesse <div class="hi">👋</div></h1>

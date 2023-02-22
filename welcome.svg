@@ -212,6 +212,10 @@
         </section>
       </div>
     </div>
+
+   <script>
+      console.log("hello teehee")
+   </script>
   </div>
   </foreignObject>
 </svg>
