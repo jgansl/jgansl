@@ -11,7 +11,7 @@
         outline: none;
         box-sizing: border-box;
       }
-      @keyframes FadeIn {
+      @keyframes fadeIn {
          from {
             opacity: 0;
          } to {
@@ -39,7 +39,7 @@
         background-position: 0 0;
         border: 24px solid;
         border-color: var(--color-background);
-        <!-- animation: fadeIn 1s ease-out forwards; -->
+        animation: fadeIn 1s ease-out forwards;
       }
       .container {
         background: var(--color-background);
