@@ -20,7 +20,8 @@
       }
       .body {
       
-        --color-main: #ff9b71;
+        <!-- #ff9b71; -->
+        --color-main: #f00;
         --color-primary: #ff4444;
         --color-secondary: #e8e677;
         --color-background: #0d1117;
