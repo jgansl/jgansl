@@ -11,7 +11,15 @@
         outline: none;
         box-sizing: border-box;
       }
+      @keyframes FadeIn {
+         from {
+            opacity: 0;
+         } to {
+            opacity: 1;
+         }
+      }
       .body {
+      
         --color-main: #ff9b71;
         --color-primary: #ff4444;
         --color-secondary: #e8e677;
@@ -30,6 +38,7 @@
         background-position: 0 0;
         border: 24px solid;
         border-color: var(--color-background);
+        animation: fadeIn 1s ease-out forwards;
       }
       .container {
         background: var(--color-background);
